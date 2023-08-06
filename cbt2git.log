@@ -1,0 +1,14 @@
+2023-08-06 05:34:46.521064 - Initialized conversion of CBT616
+2023-08-06 05:34:46.646043 - Received CBT.V505.FILE616.PDS from FILE616.XMI 
+2023-08-06 05:34:46.648546 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:34:46.649842 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/$$$DOC
+2023-08-06 05:34:46.650860 - Found $DHCP.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/$DHCP
+2023-08-06 05:34:46.651828 - Found $IBCISCO.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/$IBCISCO
+2023-08-06 05:34:46.652929 - Found @FILE616.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/@FILE616
+2023-08-06 05:34:46.653903 - Found GENOAT.rexx (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/GENOAT
+2023-08-06 05:34:46.654956 - Found IEFUSI.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/IEFUSI
+2023-08-06 05:34:46.656004 - Found ISSIGN.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/ISSIGN
+2023-08-06 05:34:46.656847 - Found OAT.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/OAT
+2023-08-06 05:34:46.657864 - Found OATOUT.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/OATOUT
+2023-08-06 05:34:46.658795 - Found RACFXREF.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/RACFXREF
+2023-08-06 05:34:46.659646 - Found ROPMONT.txt (text/plain) in CBT.V505.FILE616.PDS, moved to PDS/ROPMONT
